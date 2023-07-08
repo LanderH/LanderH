@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @LanderH
-- 👀 I’m interested in coding, 3D printing
-- 🌱 I’m currently learning C and python
+- 👀 I’m interested in coding, 3D printing and electronics 
+- 🌱 I’m currently learning to code in python
 - 📫 How to reach me: lander.hoolsteens@outlook.be
-
